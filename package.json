@@ -1,0 +1,26 @@
+{
+  "name": "code-converter",
+  "version": "1.0.0",
+  "description": "this application will help to debug, convert, check quality of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirti180/code-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirti180/code-converter/issues"
+  },
+  "homepage": "https://github.com/Kirti180/code-converter#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "openai": "^3.3.0"
+  }
+}
